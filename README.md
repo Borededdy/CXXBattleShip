@@ -18,8 +18,7 @@ In the bash terminal install **command line tools** <br>
 `xcode-select --install` <br>
 Then in the terminal type:<br>
 `g++ battleship.cpp` <br>
-After that done type:<br>
-`./a.out` <br>
+After that done launch the .exec file <br>
 To launch the executible file or just **open that in the folder of the game**
 
 #### - Windows
