@@ -1,7 +1,5 @@
 # 🚢 CXXBattleShip
 
-<img width="183" alt="5w92reaq0cz41" src="https://user-images.githubusercontent.com/83037613/160650198-5e835158-a045-4b12-8d57-3c9be550763e.png">
-
 A simple but functional terminal BattleShip game, written in c++
 To Open the game follow the instructions down here or in the wiki.
 
